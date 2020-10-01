@@ -6,8 +6,8 @@ mengenai diskusi dan upload tugas praktikum bisa dilakukan via Google Classroom
 
 Overview : 
 1. Praktikum 1 - Dasar Pemrograman Matlab
-2. ...
-3. ...
+2. Praktikum 2 - Matlab GUI
+3. Praktikum 3 - Image Properties
 4.
 5.
 6.
