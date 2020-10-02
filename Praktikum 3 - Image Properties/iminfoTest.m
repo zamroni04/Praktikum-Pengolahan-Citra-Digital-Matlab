@@ -1,1 +1,0 @@
-imfinfo('bangunan.png')

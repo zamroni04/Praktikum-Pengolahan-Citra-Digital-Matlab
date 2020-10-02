@@ -1,7 +1,6 @@
-%untuk menutup figure yang sedang aktif
-close all
+close all; clc; clear;
 
-img = imread('bangunan.png');
+img = imread('mikro rgb.jpg');
 igray = rgb2gray(img);
 
 disp('size img :')
