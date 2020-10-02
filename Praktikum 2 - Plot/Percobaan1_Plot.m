@@ -18,3 +18,7 @@ t=0:pi/100:10*pi;
 st = sin(2*t);
 ct = cos(2*t);
 figure('Name','Plot 3D'), plot3(st, ct, t), grid on
+
+figure('Name','Subplot')
+ax1 = subplot(1,2,1); bar(matrix1), grid on
+ax2 = subplot(1,2,2); bar3(matrix1), grid on 

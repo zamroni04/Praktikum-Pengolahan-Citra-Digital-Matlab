@@ -8,7 +8,7 @@ grid on
 x=[10 20 45 25];
 
 subplot(1,2,1); pie(x, {'Nasi Goreng', 'Mie Ayam', 'C', 'D'});
-subplot(1,2,2); plot3(st, ct, t)  
+subplot(1,2,2); plot3(st, ct, t), grid on;  
 
 %untuk menutup figure yang sedang aktif
 %close all
