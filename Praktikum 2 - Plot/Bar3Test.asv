@@ -1,0 +1,7 @@
+matrix1=[10 30 21 52; 34 67 12 23; 90, 23, 45, 26; 58 94 30 20];
+x=[10 20 45 50];
+pie(x, {'A', 'B', 'C', 'D'}) %pie 2 dimensi
+pie3(x, {'A', 'B', 'C', 'D'}) %pie 3 dimensi 
+disp(matrix1)
+figure('Name','Bar 3D'), bar3(matrix1), grid on 
+figure, bar(matrix1), grid on 
