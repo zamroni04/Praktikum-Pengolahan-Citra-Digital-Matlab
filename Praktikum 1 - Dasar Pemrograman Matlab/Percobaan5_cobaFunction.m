@@ -1,4 +1,4 @@
-function [tambah, kurang] = cobaFunction(a,b)
+function [tambah, kurang] = Percobaan5_cobaFunction(a,b)
 tambah=a+b
 kurang=a-b
 perkalian=a*b
