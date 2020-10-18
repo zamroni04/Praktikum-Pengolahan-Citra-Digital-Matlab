@@ -5,8 +5,8 @@ nantinya penjelasan di tiap-tiap percobaan dalam satu pratikum akan kami sertaka
 mengenai diskusi dan upload tugas praktikum bisa dilakukan via Google Classroom
 
 Overview : 
-1. Praktikum 1 - Dasar Pemrograman Matlab
-2. Praktikum 2 - Plot
+1. Praktikum 1 - Dasar Pemrograman Matlab (Video Presentasi = https://bit.ly/3k8IN5p)
+2. Praktikum 2 - Plot (Video Presentasi = https://bit.ly/3o3ZaCL)
 3. Praktikum 3 - Read and Convert Images
 4.
 5.
