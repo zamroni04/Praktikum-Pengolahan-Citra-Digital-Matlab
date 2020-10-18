@@ -1,4 +1,4 @@
-# Praktikum Pengolahan Citra Digital 
+# Praktikum Pengolahan Citra Digital (versi Matlab)
 
 Tujuan dibuatnya repository ini untuk memudahkan proses belajar dan mengajar praktikum dari mata kuliah "Pengantar Citra Digital", 
 nantinya penjelasan di tiap-tiap percobaan dalam satu pratikum akan kami sertakan URL YouTubenya disini (insyaallah),
