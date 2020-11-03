@@ -15,4 +15,5 @@ for baris=1 : tinggi
     end
 end
     
-imshow(biner);
+subplot(1,2,1); imshow(img); title('Citra RGB')
+subplot(1,2,2); imshow(biner); title('Citra Biner')

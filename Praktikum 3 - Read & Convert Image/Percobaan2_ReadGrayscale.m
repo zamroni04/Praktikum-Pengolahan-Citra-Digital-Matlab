@@ -8,7 +8,6 @@ disp(size(img))
 disp('size igray :')
 disp(size(igray))
 
-%alt ukuran variable gambar1
 [jum_baris, jum_kolom] = size(img);
 sprintf('Jumlah baris : %d',jum_baris)
 sprintf('Jumlah kolom : %d',jum_kolom)
