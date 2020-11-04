@@ -4,13 +4,13 @@ Tujuan dibuatnya repository ini untuk memudahkan proses belajar dan mengajar pra
 nantinya penjelasan di tiap-tiap percobaan dalam satu pratikum akan kami sertakan URL YouTubenya disini,
 mengenai diskusi dan upload tugas praktikum bisa dilakukan via Google Classroom
 
-Overview : 
+Table of Content : 
 1. Praktikum 1 - Dasar Pemrograman Matlab (Video Presentasi = https://bit.ly/3k8IN5p)
 2. Praktikum 2 - Plot (Video Presentasi = https://bit.ly/3o3ZaCL)
 3. Praktikum 3 - Read and Convert Images
-4.
-5.
-6.
+4. Praktikum 4 - Histrogram
+5. Praktikum 5 - Operasi Dasar Pengolahan Citra
+6. Praktikum 6 - Filter & Konvolusi
 7.
 8.
 9.
