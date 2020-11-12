@@ -14,6 +14,7 @@ for baris=2 : tinggiA-1
         dataA = [inputMobil(baris-1, kolom-1) inputMobil(baris-1, kolom) inputMobil(baris-1, kolom+1)  ...
               inputMobil(baris, kolom-1) inputMobil(baris, kolom) inputMobil(baris, kolom+1)  ...
               inputMobil(baris+1, kolom-1) inputMobil(baris+1, kolom) inputMobil(baris+1, kolom+1)];
+        
         % Urutkan
         for i=1 : 8
             for j=i+1 : 9
@@ -23,7 +24,8 @@ for baris=2 : tinggiA-1
                     dataA(j) = tmpA;
                 end
             end
-        end      
+        end 
+        
         % Ambil nilai median
         outputMobil(baris, kolom) = dataA(5);
     end

@@ -1,5 +1,5 @@
 clear all; clc; clf;
-F = imread('mobil.tif');
+F = imread('boneka2.tif');
 [tinggi, lebar] = size(F);
 G = F;
 
