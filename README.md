@@ -5,12 +5,12 @@ nantinya penjelasan di tiap-tiap percobaan dalam satu pratikum akan kami sertaka
 mengenai diskusi dan upload tugas praktikum bisa dilakukan via Google Classroom
 
 Table of Content : 
-1. Praktikum 1 - Dasar Pemrograman Matlab (Video Presentasi = https://bit.ly/3k8IN5p)
-2. Praktikum 2 - Plot (Video Presentasi = https://bit.ly/3o3ZaCL)
-3. Praktikum 3 - Read and Convert Images
-4. Praktikum 4 - Histrogram
-5. Praktikum 5 - Operasi Dasar Pengolahan Citra
-6. Praktikum 6 - Filter & Konvolusi
+1. Praktikum 1 - Dasar Pemrograman Matlab (Video Presentasi = https://www.youtube.com/watch?v=SsmUt-lkjfA&t=12s)
+2. Praktikum 2 - Plot (Video Presentasi = https://www.youtube.com/watch?v=l1_j0hYVyLo&t=19s)
+3. Praktikum 3 - Read and Convert Images (Video Presentasi = https://www.youtube.com/watch?v=lGdVDny4Pqw&t=2s)
+4. Praktikum 4 - Histrogram (Video Presentasi = https://www.youtube.com/watch?v=uCP5ANcJevs&t=1s)
+5. Praktikum 5 - Operasi Dasar Pengolahan Citra (Video Presentasi = https://www.youtube.com/watch?v=OtmU_TOsgu4&t=3s)
+6. Praktikum 6 - Filter & Konvolusi (Video Presentasi = https://www.youtube.com/watch?v=2QiQWheI73I&t=10s)
 7.
 8.
 9.
