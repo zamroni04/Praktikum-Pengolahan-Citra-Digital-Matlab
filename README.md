@@ -12,7 +12,7 @@ Table of Content :
 5. Praktikum 5 - Operasi Dasar Pengolahan Citra (Video Presentasi = https://www.youtube.com/watch?v=OtmU_TOsgu4&t=3s)
 6. Praktikum 6 - Filter & Konvolusi (Video Presentasi = https://www.youtube.com/watch?v=2QiQWheI73I&t=10s)
 7. Praktikum 7 - Contrast Enhance & Gray Level Slice
-8.
+8. Praktikum 8 - High Pass Filter & Low Pass Filter
 9.
 10.
 11.
